@@ -17,7 +17,8 @@ namespace csharpbasic
             Console.WriteLine("How are you" + name);    
             Console.WriteLine("You are " + age + " years old.");
             //Conditionals.PosOrNeg();
-            multiplicationtable.multiplicationTable();
+            //multiplicationtable.multiplicationTable();
+            arrays.MaxandMin();
         }
     }
 }

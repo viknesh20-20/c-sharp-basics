@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="arrays.cs" />
     <Compile Include="Conditionals.cs" />
     <Compile Include="multiplicationtable.cs" />
     <Compile Include="Program.cs" />
