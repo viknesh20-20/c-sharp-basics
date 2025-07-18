@@ -14,8 +14,9 @@ namespace csharpbasic
             String name = Console.ReadLine();
             Console.WriteLine("Enter your Age: ");
             var age = int.Parse(Console.ReadLine());
-            Console.WriteLine("How are you" + name);
+            Console.WriteLine("How are you" + name);    
             Console.WriteLine("You are " + age + " years old.");
+            Conditionals.PosOrNeg();
         }
     }
 }
