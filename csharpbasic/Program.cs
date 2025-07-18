@@ -23,6 +23,8 @@ namespace csharpbasic
             //Console.WriteLine(prime.PrimeorNot() ? "The number is prime." : "The number is not prime.");
             //student student1 = new student(name, age, 'A');
             //student1.DisplayInfo();
+            ListsAndLinq listsAndLinq = new ListsAndLinq();
+            listsAndLinq.Run();
 
         }
     }

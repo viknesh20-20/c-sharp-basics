@@ -46,6 +46,7 @@
     <Compile Include="arrays.cs" />
     <Compile Include="Conditionals.cs" />
     <Compile Include="functions.cs" />
+    <Compile Include="ListsAndLinq.cs" />
     <Compile Include="multiplicationtable.cs" />
     <Compile Include="student.cs" />
     <Compile Include="Program.cs" />
