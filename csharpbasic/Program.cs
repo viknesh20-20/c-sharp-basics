@@ -16,7 +16,8 @@ namespace csharpbasic
             var age = int.Parse(Console.ReadLine());
             Console.WriteLine("How are you" + name);    
             Console.WriteLine("You are " + age + " years old.");
-            Conditionals.PosOrNeg();
+            //Conditionals.PosOrNeg();
+            multiplicationtable.multiplicationTable();
         }
     }
 }
