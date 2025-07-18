@@ -18,7 +18,12 @@ namespace csharpbasic
             Console.WriteLine("You are " + age + " years old.");
             //Conditionals.PosOrNeg();
             //multiplicationtable.multiplicationTable();
-            arrays.MaxandMin();
+            //arrays.MaxandMin();
+            //functions prime = new functions();
+            //Console.WriteLine(prime.PrimeorNot() ? "The number is prime." : "The number is not prime.");
+            //student student1 = new student(name, age, 'A');
+            //student1.DisplayInfo();
+
         }
     }
 }
